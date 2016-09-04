@@ -6,6 +6,7 @@
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="search2.js" type="PLAIN_TEXT" />
       <mapping ext="opts" type="PLAIN_TEXT" />
+      <mapping ext="env" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
