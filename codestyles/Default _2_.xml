@@ -18,6 +18,9 @@
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
+  <TypeScriptCodeStyleSettings>
+    <option name="SPACE_AFTER_TYPE_COLON" value="true" />
+  </TypeScriptCodeStyleSettings>
   <editorconfig>
     <option name="ENABLED" value="false" />
   </editorconfig>
@@ -26,9 +29,14 @@
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
-      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="TypeScript">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
       <option name="SMART_TABS" value="true" />
-      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
     </indentOptions>
   </codeStyleSettings>
 </code_scheme>
