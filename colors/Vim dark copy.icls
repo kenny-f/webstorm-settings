@@ -36,7 +36,7 @@
     <option name="SELECTED_TEARLINE_COLOR" value="bbbbbb" />
     <option name="SELECTION_BACKGROUND" value="bbbbbb" />
     <option name="SELECTION_FOREGROUND" value="0" />
-    <option name="TEARLINE_COLOR" value="222222" />
+    <option name="TEARLINE_COLOR" value="fafff3" />
     <option name="WHITESPACES" value="505050" />
   </colors>
   <attributes>
