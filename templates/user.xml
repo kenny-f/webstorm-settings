@@ -1,0 +1,7 @@
+<templateSet group="user">
+  <template name="clog" value="console.log($END$);" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
