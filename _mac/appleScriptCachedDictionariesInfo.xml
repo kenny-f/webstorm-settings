@@ -11,6 +11,10 @@
       <dictionary-info applicationName="Scripting Additions">
         <option name="dictionaryUrl" value="$USER_HOME$/Library/Caches/WebStorm2016.2/sdef/Scripting_Additions_generated.sdef" />
       </dictionary-info>
+      <dictionary-info applicationName="iTerm">
+        <option name="dictionaryUrl" value="$USER_HOME$/Library/Caches/WebStorm2016.2/sdef/iTerm_generated.sdef" />
+        <option name="applicationUrl" value="/Applications/iTerm.app" />
+      </dictionary-info>
       <dictionary-info applicationName="StandardAdditions">
         <option name="dictionaryUrl" value="$USER_HOME$/Library/Caches/WebStorm2016.2/sdef/StandardAdditions_generated.sdef" />
         <option name="applicationUrl" value="/System/Library/ScriptingAdditions/StandardAdditions.osax" />
