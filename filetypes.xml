@@ -1,12 +1,14 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="tests" type="Dockerfile" />
       <mapping pattern="components" type="JavaScript" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="search2.js" type="PLAIN_TEXT" />
       <mapping ext="opts" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
+      <mapping ext="sdef" type="XML" />
     </extensionMap>
   </component>
 </application>
